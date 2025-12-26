@@ -2,12 +2,10 @@
 
 <div align="center">
 
-![RecipeFinder Hero](https://via.placeholder.com/1200x400/6366f1/ffffff?text=RecipeFinder+-+Cook+Smarter+Not+Harder)
-
 **🎯 Stop Wondering. Start Cooking.**  
 *Your fridge is full of possibilities. We just help you find them.*
 
-[![Live Preview](https://img.shields.io/badge/%F0%9F%9A%80-Live_Preview-8B5CF6?style=for-the-badge)](https://recipe-finder-demo.netlify.app)
+[![Live Preview](https://img.shields.io/badge/%F0%9F%9A%80-Live_Preview-8B5CF6?style=for-the-badge)](https://mahmoudnazmy.github.io/recipe-finder/)
 [![Vue 3](https://img.shields.io/badge/Vue-3-4FC08D?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Arabic UI](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-RTL_Ready-0077B5?style=flat)]()
@@ -163,7 +161,7 @@ Check off ingredients and steps as you cook. Feel the satisfaction of progress!
 ## 🚦 **Quick Start Guide**
 
 ### **For Hungry Users** 🍽️
-1. **[Visit the Live Demo](https://recipe-finder-demo.netlify.app)**
+1. **[Visit the Live Demo](https://mahmoudnazmy.github.io/recipe-finder/)**
 2. Click "ابدأ الآن" (that's "Start Now" – we're fancy)
 3. Select ingredients from your fridge
 4. Get recipe suggestions
@@ -297,7 +295,7 @@ This project is licensed under the **"Make Something Delicious" License**:
 
 ## 🚀 **Ready to Transform Your Cooking Experience?**
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_See_It_Live-RecipeFinder_Demo-8B5CF6?style=for-the-badge&logo=netlify)](https://recipe-finder-demo.netlify.app)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_See_It_Live-RecipeFinder_Demo-8B5CF6?style=for-the-badge&logo=netlify)](https://mahmoudnazmy.github.io/recipe-finder/)
 [![View Code](https://img.shields.io/badge/%F0%9F%92%BB_View_Code-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mahmoudnazmy/recipe-finder)
 
 **Bon appétit! Or as we say in Arabic: بالهنا والشفا!** 🍽️
